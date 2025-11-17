@@ -4,4 +4,4 @@
 recepkaracoban test1
 test bölümleri içerisi
 
-[lorem ipsum](http://google.com)
+[google.com](http://google.com)
