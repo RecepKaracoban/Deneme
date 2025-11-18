@@ -1,9 +1,9 @@
 # kodluyoruzilkrepo
 
 ## Alt Bilgi
-recepkaracoban test1
-test bölümleri içerisi
-[kaplan]()
-[google gitmek için tiklayiniz](<side page/>)(https://google.com)
+* test1
+* * test bölümleri bu daha başlangıç denemeler
+----------------------------------------------------------------
+[google gitmek için tiklayiniz](https://google.com)
 -----------------------------------------------------------------
 ![img](https://picsum.photos/200)
