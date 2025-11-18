@@ -3,6 +3,7 @@
 ## Alt Bilgi
 recepkaracoban test1
 test bölümleri içerisi
-# img (kaplan)
-[google gitmek için tiklayiniz]((https://google.com)<side page/>)
-<style
+[kaplan]()
+[google gitmek için tiklayiniz](<side page/>)(https://google.com)
+-----------------------------------------------------------------
+![img](https://picsum.photos/200)
